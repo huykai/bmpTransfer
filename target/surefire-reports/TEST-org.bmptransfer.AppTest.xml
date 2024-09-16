@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.bmptransfer.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer\target\test-classes;E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer\target\classes;E:\Personal_data\maven_repo\.m2\repository\junit\junit\4.11\junit-4.11.jar;E:\Personal_data\maven_repo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="user.country.format" value="CN"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Develop_Languages\java\jdk1.8.0_231\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\richa\AppData\Local\Temp\surefire3732349617722763397\surefirebooter5000940881401179879.jar C:\Users\richa\AppData\Local\Temp\surefire3732349617722763397 2024-03-13T03-08-15_816-jvmRun1 surefire7828206724886780977tmp surefire_05464291570871434400tmp"/>
+    <property name="surefire.test.class.path" value="E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer\target\test-classes;E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer\target\classes;E:\Personal_data\maven_repo\.m2\repository\junit\junit\4.11\junit-4.11.jar;E:\Personal_data\maven_repo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\richa"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Develop_Languages\java\jdk1.8.0_231\jre"/>
+    <property name="basedir" value="E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\richa\AppData\Local\Temp\surefire3732349617722763397\surefirebooter5000940881401179879.jar"/>
+    <property name="sun.boot.class.path" value="D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\resources.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\rt.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\sunrsasign.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\jsse.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\jce.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\charsets.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\jfr.jar;D:\Develop_Languages\java\jdk1.8.0_231\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="user.name" value="richard"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\Personal_data\maven_repo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\richa\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2020.3.1"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="user.dir" value="E:\Personal_Projects\IntellijIdea_Projects\bmpTransfer"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="zh"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Develop_Languages\java\jdk1.8.0_231\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Develop_Tools\anaconda3\condabin;D:\Develop_Tools\VMware\VMware Workstation\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Develop_Tools\NVIDIA GPU Computing\bin;D:\Develop_Tools\NVIDIA GPU Computing\libnvvp;D:\Develop_Tools\STEP7\bin;C:\Program Files (x86)\Common Files\Siemens\Sqlany;D:\Develop_Tools\Siemens\Step7\S7bin;C:\Program Files\Common Files\Siemens\Automation\Simatic OAM\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Develop_tools\nvm;C:\Program Files\nodejs;D:\Develop_Languages\go\go_1.16.4\bin;C:\Program Files\Docker\Docker\resources;C:\Program Files\Docker\Docker\resources\bin;D:\Develop_Languages\python\Python3.8;D:\Develop_tools\Microsoft VS Code\bin;D:\Develop_tools\Git\cmd;D:\Develop_Languages\java\jdk1.8.0_231\bin;D:\Develop_Languages\java\jdk1.8.0_231\jre\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Develop_Tools\MongoDB\mongodb-4.4.5\bin;D:\Develop_Tools\MongoDB\mongodb-database-tools-100.3.1\bin;D:\Develop_Tools\instantclient;G:\HarmonyOS_develop\SDK\toolchains;D:\Develop_Tools\TortoiseSVN\bin;D:\Develop_Tools\CMake\bin;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files\PKWARE\pkzipc;D:\Develop_Languages\python\Python3.8\Lib\site-packages\PyQt5\Qt5\plugins;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.1.1\;D:\Develop_Tools\MATLAB\R2018a\runtime\win64;D:\Develop_Tools\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\richa\.cargo\bin;D:\Develop_Tools\GNU Arm Embedded Toolchain\10 2021.10\bin;C:\Users\richa\AppData\Local\Microsoft\WindowsApps;C:\Users\richa\.dotnet\tools;C:\Users\richa\AppData\Local\Programs\Microsoft VS Code\bin;D:\Develop_Tools\Microsoft VS Code\bin;E:\Develop_Tools\hadoop-3.3.1\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Develop_Tools\apache-maven-3.6.0\bin;D:\Develop_Servers\PostgreSQL\9.6\bin;D:\Develop_Languages\python\Python3.8;D:\Develop_Languages\python\Python3.8\Scripts;D:\Develop_Tools\CMake\bin;D:\Develop_Tools\gradle-7.5.1\bin;D:\Develop_Tools;D:\Develop_Tools\NVIDIA GPU Computing\include;D:\Develop_Tools\NVIDIA GPU Computing\bin;D:\Develop_Tools\NVIDIA GPU Computing\lib;D:\Develop_Tools\NVIDIA GPU Computing\libnvvp;E:\Develop_Tools\apache-zookeeper-3.8.1-bin\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files\Tesseract-OCR;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.ext.dirs" value="D:\Develop_Languages\java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.bmptransfer.AppTest" time="0.001"/>
+</testsuite>

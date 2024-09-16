@@ -1,0 +1,7 @@
+*.bmp
+*.png
+*.7z
+*.log
+target/*
+.idea/
+*.exe
